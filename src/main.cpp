@@ -1,7 +1,10 @@
 #include <Arduino.h>
-#Test de Commit 1
-# That is the second commit
-# That is the Third Commit
+#include <Adafruit_NeoPixel.h>
+
+// Test de Commit 1
+// That is the second commit
+// That is the Third Commit
+
 void setup() {
   // put your setup code here, to run once:
 }
